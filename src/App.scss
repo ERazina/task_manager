@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+
+.grid{
+  display: grid;
+  grid-auto-flow: column;
+  justify-items: center;
+}
+
+.add{
+  justify-self: center;
+}
